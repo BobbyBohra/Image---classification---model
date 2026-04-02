@@ -56,7 +56,7 @@ A complete machine learning web application that classifies animal images using 
 
 # Clone repo
 
-git clone https://github.com/your-username/animal-classifier.git
+git clone https://github.com/BobbyBohra/Image---classification---model.git
 
 # Go to project folder
 
