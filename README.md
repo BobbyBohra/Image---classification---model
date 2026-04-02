@@ -8,21 +8,34 @@ This project uses deep learning techniques to classify animal images into differ
 
 🎯 Features
 🖼️ Upload animal images for classification
+
 🤖 Deep learning model for accurate predictions
+
 📊 Displays predicted animal name with confidence score
+
 🧠 Provides additional insights (habitat, diet, facts)
+
 🌐 User-friendly interface for real-time interaction
+
+
 🛠️ Tech Stack
+
 Python
 TensorFlow / Keras or PyTorch
 OpenCV (image processing)
 NumPy & Pandas
 Streamlit (UI)
+
+
 🧠 Model Details
+
 Used a CNN (Convolutional Neural Network) for image classification
 Trained on animal image dataset (e.g., Kaggle dataset)
 Applied preprocessing techniques like resizing, normalization, and augmentation
+
+
 📂 Project Structure
+
 animal-classifier/
 │
 ├── app.py                # Streamlit app
@@ -38,7 +51,10 @@ animal-classifier/
 │
 ├── requirements.txt
 └── README.md
+
+
 ▶️ How to Run
+
 # Clone repo
 git clone https://github.com/your-username/animal-classifier.git
 
@@ -50,6 +66,8 @@ pip install -r requirements.txt
 
 # Run app
 streamlit run app.py
+
+
 📊 Output Example
 Input: Image of a tiger
 Output:
